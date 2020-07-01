@@ -1,2 +1,7 @@
 # web-335
-NoSQL class
+# contributors
+Introduction to NoSQL
+Professor Krasso - Bellevue University
+Darius Dinkins - Bellevue University
+
+
