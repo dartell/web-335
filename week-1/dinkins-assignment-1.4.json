@@ -1,0 +1,48 @@
+
+
+
+{
+    "user" : [
+        {
+            "userId":1 ,
+            "userFirstName": "Bacon",
+            "userLastName": "Bologna"
+        }
+    ]
+    
+    
+}
+
+
+{
+    "role" : [
+        {
+            "roleID"
+            "roleTitle"
+        }
+    ]
+   
+}
+
+
+{
+    "birthday": [
+        {
+            "birthDay"
+            "birthMonth"
+            "birthYear"
+        }
+    ]
+}
+
+
+{
+    "dependents": [
+        {
+            "dependentsFirstName"
+            "dependentsLastName"
+            "relationship"
+        }
+    ]
+  
+}
