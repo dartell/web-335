@@ -1,0 +1,26 @@
+{
+    "customer": {
+   
+    "_id": 1,
+    "first_name": "Dave" ,
+    "last_name": "Sower",
+    "date_of_birth": [{"month": "January", "Date": "2", "Year": "2000"}],
+    "user_name": "DS_2424"
+    },
+
+    "invoice": {
+        "_id": 2,
+        "date_created": [{"month": "January", "Date": "2", "Year": "2020"}],
+        "subtotal": 20.99,
+        "tax": 0.07,
+        "total": 22.46
+    },
+
+    "line_items": {
+        "_id": 3,
+        "name": "peach",
+        "price": 20.99,
+        "quantity": 1
+    }
+}
+
