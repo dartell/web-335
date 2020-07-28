@@ -1,0 +1,19 @@
+{
+    "class": {
+   
+    "_id": 1,
+    "name": "web 335" 
+    },
+
+    "enroll": {
+        "_id": 2,
+        "grade": "C"
+    },
+
+    "students": {
+        "_id": 2,
+        "first_name": "Spencer",
+        "last_name": "Warren",
+        "mi": "C"
+    }
+}
