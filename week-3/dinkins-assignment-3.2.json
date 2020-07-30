@@ -1,0 +1,25 @@
+{
+    "customer": {
+   
+    "name": "Dave45" 
+    
+    },
+
+    "link_user_role": {
+        "link_role": ""
+      
+    },
+
+    "role": {
+        "user_role": "Admin"
+      
+    },
+
+    "link_role_permission": {
+        "link_permission": ""
+    },
+
+    "permission": {
+        "user_permission": ""
+    }
+}

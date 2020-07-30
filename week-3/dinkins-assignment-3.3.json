@@ -1,0 +1,25 @@
+{
+    "publisher": {
+   
+    "publisher_name": "Trinity",
+    "publisher_code": 45,
+    "publisher_address":  [{"street":"45 Gosh Ave", "city": " Bellevue", "state": "NE", "zipcode": 45430 }]
+    
+    },
+
+    "book": {
+        "book_isbn": 32390682,
+        "book_name": "How to make Triangles",
+        "book_price": 45.99
+      
+    },
+
+    "author": {
+        "author_first_name": "Jack",
+        "author_last_name": "Black",
+        "author_phone": 4021234567,
+        "author_email": "jackblack@aol.com"
+      
+    }
+
+}
